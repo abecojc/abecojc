@@ -5,3 +5,4 @@
 - 🤔  I’m looking for help with *Machine Learning*
 - 💬  Ask me about *Full Stack Development*
 - 📫  How to reach me: jabeclo@gmail.com
+- ![abeco's github stats](https://github-readme-stats.vercel.app/api?username=abecojc)
