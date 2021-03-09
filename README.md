@@ -1,7 +1,7 @@
 ### Welcome to my GitHub account 👋
 
 - 🔭  I’m currently working on ![https://github.com/abecojc/grit-builder]
-- 🌱  I’m currently learning *Python and Mongodb*
+- 🌱  I’m currently learning *Python*
 - 🤔  I’m looking for help with *Machine Learning*
 - 💬  Ask me about *Full Stack Development*
 - 📫  How to reach me: jabeclo@gmail.com
