@@ -6,4 +6,4 @@
 - 💬  Ask me about *Full Stack Development, data structure and algorithm, java, c, embedded systems*
 - 📫  How to reach me: jabeclo@gmail.com
 - my resume on CLI: npx intro-node-me
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abecojc)](https://github.com/abecojc/github-readme-stats)
+  
